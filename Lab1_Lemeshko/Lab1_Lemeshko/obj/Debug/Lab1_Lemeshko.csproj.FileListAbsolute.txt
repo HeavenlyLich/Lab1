@@ -1,0 +1,11 @@
+C:\Users\Heavenly_lich\source\repos\Lab1_Lemeshko\Lab1_Lemeshko\bin\Debug\Lab1_Lemeshko.exe.config
+C:\Users\Heavenly_lich\source\repos\Lab1_Lemeshko\Lab1_Lemeshko\bin\Debug\Lab1_Lemeshko.exe
+C:\Users\Heavenly_lich\source\repos\Lab1_Lemeshko\Lab1_Lemeshko\bin\Debug\Lab1_Lemeshko.pdb
+C:\Users\Heavenly_lich\source\repos\Lab1_Lemeshko\Lab1_Lemeshko\obj\Debug\Lab1_Lemeshko.csproj.AssemblyReference.cache
+C:\Users\Heavenly_lich\source\repos\Lab1_Lemeshko\Lab1_Lemeshko\obj\Debug\Lab1_Lemeshko.csproj.SuggestedBindingRedirects.cache
+C:\Users\Heavenly_lich\source\repos\Lab1_Lemeshko\Lab1_Lemeshko\obj\Debug\Lab1_Lemeshko.fMain.resources
+C:\Users\Heavenly_lich\source\repos\Lab1_Lemeshko\Lab1_Lemeshko\obj\Debug\Lab1_Lemeshko.Properties.Resources.resources
+C:\Users\Heavenly_lich\source\repos\Lab1_Lemeshko\Lab1_Lemeshko\obj\Debug\Lab1_Lemeshko.csproj.GenerateResource.cache
+C:\Users\Heavenly_lich\source\repos\Lab1_Lemeshko\Lab1_Lemeshko\obj\Debug\Lab1_Lemeshko.csproj.CoreCompileInputs.cache
+C:\Users\Heavenly_lich\source\repos\Lab1_Lemeshko\Lab1_Lemeshko\obj\Debug\Lab1_Lemeshko.exe
+C:\Users\Heavenly_lich\source\repos\Lab1_Lemeshko\Lab1_Lemeshko\obj\Debug\Lab1_Lemeshko.pdb
